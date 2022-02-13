@@ -10,3 +10,10 @@ This challenge consists of four technical analysis deliverables:
 - Deliverable 3: Extract and Transform the Kaggle data
 - Deliverable 4: Create the Movie Database
 
+## Database Queries & Images: 
+
+![movies_query.png](Resources/movies_query.png)
+
+![ratings_query.png](Resources/ratings_query.png)
+
+![add_database_elapsed_time.png](Resources/add_database_elapsed_time.png)
